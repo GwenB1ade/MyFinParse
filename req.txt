@@ -1,0 +1,7 @@
+requests
+pydantic
+typer
+beautifulsoup4
+pandas
+streamlit
+watchdog
